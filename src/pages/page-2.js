@@ -19,7 +19,7 @@ const SecondPage = () => (
         <p>Shows live weather data of the major Indian cities which you enter</p>
       </li>
       <li>
-        <a href="https://github.com/kryptokinght/react-youtube-clone"><h4>React-Youtube-clone</h4></a>
+        <a href="https://elastic-varahamihira-5addb9.netlify.com/"><h4>React-Youtube-clone</h4></a>
         <p>Makes use of the Youtube API to load search results instantly as you type in.</p>
       </li>
     </ul>
